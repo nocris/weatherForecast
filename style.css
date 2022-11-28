@@ -1,0 +1,51 @@
+body{
+    margin: auto;
+    width: 100%;
+    height: auto;
+    background-color: aqua;
+
+
+}
+
+
+.form {
+    margin: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+}
+
+.input{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+.text{
+    width: 15%;
+    height: 44px;
+    border: 1px solid black;
+}
+
+.button{
+    width: 10%;
+    height: 48px;
+}
+
+.images, #day{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    width: 10%;
+}
+
+
+
+
